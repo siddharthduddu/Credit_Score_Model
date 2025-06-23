@@ -1,9 +1,5 @@
 # Credit Score Predictor with FastAPI
 
-<p align="center">
-  <img src="[python/frontend/static/images/meter.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mahindrafinance.com%2Fblogs%2Fcredit-score%2Fwhat-do-credit-score-ranges-mean&psig=AOvVaw1rNAKK77sqNNqr4aqFkRso&ust=1750765339583000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC05aW7h44DFQAAAAAdAAAAABAU)" alt="Credit Score Predictor Logo" style="width:500px;">
-</p>
-
 
 This FastAPI-based web application is designed to predict credit scores using machine learning. The project follows a systematic data preprocessing and feature selection approach to ensure the model's accuracy and efficiency.
 
